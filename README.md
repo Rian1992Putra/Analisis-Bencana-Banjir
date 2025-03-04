@@ -13,8 +13,7 @@ Nama : Rian Pratama Putra
 **Data Preparation dan Cleaning**
    
 o Data yang digunakan bersumber pada website https://satudata.jakarta.go.id/home dan
-website https://www.bps.go.id/id. Data yang digunakan adalah data banjir tahun 2018, 2019, 2020, 2023, 2024. Data tambahan yaitu data koordinat lokasi setiap kecamatan. Data cleaning dilakukan menggunakan Google Collab/Jupyter Lab 
-o Data Preparation dan Cleaning meliputi :
+website https://www.bps.go.id/id. Data yang digunakan adalah data banjir tahun 2018, 2019, 2020, 2023, 2024. Data tambahan yaitu data koordinat lokasi setiap kecamatan. Data cleaning dilakukan menggunakan Google Collab/Jupyter Lab. Data Preparation dan Cleaning meliputi :
 1. Penggabungan data
 2. Koreksi inkonsistensi data (misspelling, jenis kolom data, missing
 value)
