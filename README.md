@@ -17,7 +17,6 @@ value)
    
 o Data analysis dilakukan di tableau dengan link dashboard 
 https://public.tableau.com/app/profile/rian.putra/viz/DashboardBencanaBanjirJakarta/
-Dashboard1
 
 o Permasalahan yang akan dianalisis dalam penelitian ini adalah :
 1. Bagaimana kondisi persebaran banjir di setiap wilayah di Provinsi
