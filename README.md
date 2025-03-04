@@ -10,8 +10,7 @@ Analisis Data Bencana Banjir DKI Jakarta
 Nama : Rian Pratama Putra
 
 
- 
-1. Data Preparation dan Cleaning
+**Data Preparation dan Cleaning**
    
 o Data yang digunakan bersumber pada website https://satudata.jakarta.go.id/home dan
 website https://www.bps.go.id/id. 
@@ -25,7 +24,7 @@ value)
 3. Pengecekan/Koreksi outlier
 4. Koreksi duplikat
  
-2. Exploratory Data Analysis
+**Exploratory Data Analysis**
    
 o Data analysis 
 dilakukan 
@@ -34,7 +33,7 @@ tableau dengan
 link dashboard 
 https://public.tableau.com/app/profile/rian.putra/viz/DashboardBencanaBanjirJakarta/
 Dashboard1
-o Adapun permasalahan yang ingin dilakukan analisis adalah :
+o Permasalahan yang akan dianalisis dalam penelitian ini adalah :
 1. Bagaimana kondisi persebaran banjir di setiap wilayah di Provinsi
 Jakarta?
 2. Bagaimana kondisi intensitas banjir di setiap bulannya di Provinsi
@@ -47,9 +46,9 @@ tahunnya?
 6. Adakah korelasi antara ketinggian air banjir terhadap korban terdampak
 banjir setiap tahunnya?
 
-3. Kesimpulan dan Rekomendasi
+**Kesimpulan dan Rekomendasi**
 
-o Adapun Kesimpulan yang didapatkan dari hasil visualisasi pada tableau :
+o Kesimpulan yang didapatkan dari hasil visualisasi pada tableau :
 1. Pada tahun 2018 sd 2020, banjir tertinggi berada di wilayah Jakarta
 Timur . Pada tahun 2023 dan 2024 banjir tertinggi berada di wilayah
 Jakarta Selatan.
