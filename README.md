@@ -1,5 +1,4 @@
 # Analisis-Bencana-Banjir
-Melakukan analisis dan visualisasi terhadap data bencana banjir
 
 Analisis Data Bencana Banjir DKI Jakarta 
 
