@@ -22,11 +22,7 @@ value)
  
 **Exploratory Data Analysis**
    
-o Data analysis 
-dilakukan 
-di 
-tableau dengan 
-link dashboard 
+o Data analysis dilakukan di tableau dengan link dashboard 
 https://public.tableau.com/app/profile/rian.putra/viz/DashboardBencanaBanjirJakarta/
 Dashboard1
 
