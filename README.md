@@ -11,7 +11,8 @@ Nama : Rian Pratama Putra
 
 
  
-• Data Preparation dan Cleaning 
+1. Data Preparation dan Cleaning
+   
 o Data yang digunakan bersumber pada website https://satudata.jakarta.go.id/home dan
 website https://www.bps.go.id/id. 
 o Data yang digunakan adalah data banjir tahun 2018, 2019, 2020, 2023, 2024
@@ -24,7 +25,8 @@ value)
 3. Pengecekan/Koreksi outlier
 4. Koreksi duplikat
  
-• Exploratory Data Analysis 
+2. Exploratory Data Analysis
+   
 o Data analysis 
 dilakukan 
 di 
@@ -45,7 +47,8 @@ tahunnya?
 6. Adakah korelasi antara ketinggian air banjir terhadap korban terdampak
 banjir setiap tahunnya?
 
-o Kesimpulan dan Rekomendasi 
+3. Kesimpulan dan Rekomendasi
+
 o Adapun Kesimpulan yang didapatkan dari hasil visualisasi pada tableau :
 1. Pada tahun 2018 sd 2020, banjir tertinggi berada di wilayah Jakarta
 Timur . Pada tahun 2023 dan 2024 banjir tertinggi berada di wilayah
@@ -53,8 +56,6 @@ Jakarta Selatan.
 2. Hampir setiap tahun banjir cenderung terjadi pada akhir tahun dan atau
 awal tahun. Namun ditemukan kejadian banjir intensitas tinggi pada
 akhir tahun 2019 sampai dengan awal tahun 2020.
-
-
 3. Korban terdampak bencana banjir paling banyak dirasakan diwilayah
 Jakarta Timur khususnya di wilayah sekitar Kecamatan Jatinegara dan
 Jakarta Selatan khususnya di wilayah Pasar Minggu. 
@@ -65,7 +66,9 @@ cenderung menurun di tahun 2024.
 peningkatan dari tahun 2018 menuju tahun 2024 di semua wilayah
 kecuali wilayah Jakarta Selatan yang cenderung stagnan. 
 6. Secara umum tidak menunjukkan korelasi yang signifikan antara
-ketinggian air banjir terhadap korban terdampak banjir. 
+ketinggian air banjir terhadap korban terdampak banjir.
+
+
 o Rekomendasi :
 1. Perubahan wilayah terdampak dari Jakarta Timur (2018-2020) ke
 Jakarta Selatan (2023-2024) menunjukkan adanya faktor lingkungan
