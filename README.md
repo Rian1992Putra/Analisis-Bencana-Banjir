@@ -16,10 +16,7 @@ o Data yang digunakan bersumber pada website https://satudata.jakarta.go.id/home
 website https://www.bps.go.id/id. 
 o Data yang digunakan adalah data banjir tahun 2018, 2019, 2020, 2023, 2024
 o Data tambahan yaitu data koordinat lokasi setiap kecamatan
-o Data cleaning dilakukan menggunakan google collab dengan 
-link 
-https://colab.research.google.com/drive/1vPbn1j_PrDgLnN1bhneADAgPxuX1Ar9o?
-usp=sharing
+o Data cleaning dilakukan menggunakan Google Collab/Jupyter Lab 
 o Data Preparation dan Cleaning meliputi :
 1. Penggabungan data
 2. Koreksi inkonsistensi data (misspelling, jenis kolom data, missing
