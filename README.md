@@ -1,13 +1,7 @@
-# Analisis-Bencana-Banjir
-
-Analisis Data Bencana Banjir DKI Jakarta 
+# Analisis Data Bencana Banjir DKI Jakarta
 
 
-
-
- 
 Nama : Rian Pratama Putra
-
 
 **Data Preparation dan Cleaning**
    
